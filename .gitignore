@@ -1,0 +1,14 @@
+training/
+logs/
+wandb/
+.ipynb_checkpoints/
+cifar.gz
+.vscode/
+models/
+FACES/False_Negatives/
+FACES/False_Negatives2/
+FACES/False_Positives/
+FACES/False_Positives2/
+FACES/test/
+FACES/train/
+FACES/val/
