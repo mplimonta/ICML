@@ -12,6 +12,8 @@ FACES/False_Positives2/
 FACES/test/
 FACES/train/
 FACES/val/
+FACES/VMERBalanced/
+FACES/VMERBalancedCropped/
 cifar
 res10_300x300_ssd_iter_140000.caffemodel
 haarcascade_frontalface_default.xml
